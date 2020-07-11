@@ -1,0 +1,8 @@
+print('-'*75)
+print('Bem vindo ao PROGRAMA do SUPERMERCADO LIVET! \nAqui iremos calcular o valor do produto seu produto baseado no desconto!')
+print('-'*75)
+v = float(input('Digite o valor em reais do seu produto: R$'))
+print('O valor do seu produto é igual a R${}, com o desconto de 5%, ficará igual à R${}.'.format(v,v*0.95))
+print('-'*75)
+print('             Obrigada por usar o nosso software!')
+print('-'*75)
