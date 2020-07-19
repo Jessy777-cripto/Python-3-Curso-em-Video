@@ -1,5 +1,5 @@
 #programas da aula 14
-#14 class softwares
+#14 class programs
 
 # for c in range(1, 10):
 #     print(c)
